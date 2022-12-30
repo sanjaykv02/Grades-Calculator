@@ -2,7 +2,7 @@ To write[W], compile [C] and execute [E]:-
  
 W:-->  nano filename.cpp
      or
-W:-->  clone the cpp file from the repo.
+W:-->  clone the main.cpp file from the Grade-Calculator folder.
 C:-->  gcc filename.cpp
 E:-->  ./a.out
      or
