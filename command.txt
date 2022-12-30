@@ -1,11 +1,13 @@
-To write, compile and execute:-
+To write[W], compile [C] and execute [E]:-
  
-W:-->  vim filename.c
-C:-->  gcc filename.c
+W:-->  nano filename.cpp
+     or
+W:-->  clone the cpp file from the repo.
+C:-->  gcc filename.cpp
 E:-->  ./a.out
      or
-E:-->  gcc -o execution_fname filename.c
+E:-->  gcc -o execution_file_name filename.c
 then
-E:-->  ./execution_fname
+E:-->  ./execution_file_name
 
 Note: Always create one new directory for the compilation.
