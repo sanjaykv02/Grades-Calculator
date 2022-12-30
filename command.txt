@@ -1,0 +1,11 @@
+To write, compile and execute:-
+ 
+W:-->  vim filename.c
+C:-->  gcc filename.c
+E:-->  ./a.out
+     or
+E:-->  gcc -o execution_fname filename.c
+then
+E:-->  ./execution_fname
+
+Note: Always create one new directory for the compilation.
